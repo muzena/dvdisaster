@@ -5,4 +5,4 @@
 #26-fix-display-of-manual.pdf.patch
 #32-display-compilation-commands.patch
 #34-gcc8-format-security.patch
-37-suggest-dvdisaster-doc.patch
+#37-suggest-dvdisaster-doc.patch
