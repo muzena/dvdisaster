@@ -11,8 +11,7 @@ Build-Depends: debhelper (>= 12),
                libcam-dev [kfreebsd-any],
                libgtk2.0-dev,
                libpng-dev,
-               pkg-config,
-               debhelper-compat (= 12)
+               pkg-config
 Build-Depends-Indep: texlive-fonts-recommended <!nodoc>,
                      texlive-latex-base <!nodoc>,
                      texlive-latex-extra  <!nodoc>
